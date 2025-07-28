@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="stellar-account-prometheus-exporter",
-    version="0.0.7",
+    version="0.0.8",
     author="Stellar Development Foundation",
     author_email="ops@stellar.org",
     description="Export stellar account balance in prometheus format",
